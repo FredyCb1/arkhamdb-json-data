@@ -335,7 +335,7 @@
     {
         "code": "09045",
         "name": "Notas de investigación",
-        "text": "[reaction] Después de que una capacidad de una carta de Jugador coloque 1 o más de tus pitas sobre tu Lugar: Coloca esa misma cantidad de recursos sobre las Notas de investigación como pruebas.\n[action]: Realiza una prueba de [intellect] (0). Por cada punto que tengas por encima del valor mínimo de éxito, puedes gastar 1 prueba para descubrir 1 pista en tu Lugar.",
+        "text": "[reaction] Después de que una capacidad de una carta de Jugador coloque 1 o más de tus pistas sobre tu Lugar: Coloca esa misma cantidad de recursos sobre las Notas de investigación como pruebas.\n[action]: Realiza una prueba de [intellect] (0). Por cada punto que tengas por encima del valor mínimo de éxito, puedes gastar 1 prueba para descubrir 1 pista en tu Lugar.",
         "traits": "Objeto. Tomo. Ciencia.",
         "slot": "Mano"
     },
